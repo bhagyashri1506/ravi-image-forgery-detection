@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/ravi-image-forgery-detection/static/js/main.77549044.js",
+    "main.js": "/ravi-image-forgery-detection/static/js/main.19f6eba3.js",
     "static/media/street-img.png": "/ravi-image-forgery-detection/static/media/street-img.bf1ddb6a3f83c1b58802.png",
     "static/media/home-page.png": "/ravi-image-forgery-detection/static/media/home-page.b0e93a44bd36c3b8da86.png",
     "index.html": "/ravi-image-forgery-detection/index.html",
-    "main.77549044.js.map": "/ravi-image-forgery-detection/static/js/main.77549044.js.map"
+    "main.19f6eba3.js.map": "/ravi-image-forgery-detection/static/js/main.19f6eba3.js.map"
   },
   "entrypoints": [
-    "static/js/main.77549044.js"
+    "static/js/main.19f6eba3.js"
   ]
 }
